@@ -1,16 +1,85 @@
-## Hi there 👋
+<h2 align="center">Hi 👋! My name is Egi Disa Habibie and y'all  can call me Bie</h2>
 
-<!--
-**Eghabibie/eghabibie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eghabibie.eghabibie&"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="center">What I'm Up To</h3>
+
+###
+
+<p align="left">🔭 I’m currently working on ...<br>🌱 I’m currently learning ...<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...</p>
+
+###
+
+<h3 align="center">Languages</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="center">Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="center">🌐 Connect with me</h3>
+
+###
+
+<div align="center">
+  <a href="discord.com/users/bievz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="biegdev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/egi-disa-habibie-492723381" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Habibie">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Habibie&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGllOW9jYmlhM2N6YTdmaTA1aTZ5aHgwdDd5eXVqemllOGxqZjI3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I7jZ34hGl4Tp8Fg5cn/giphy.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/eghabibie/eghabibie/output/snake.svg" alt="Snake animation" />
+
+###
