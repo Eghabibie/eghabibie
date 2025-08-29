@@ -76,8 +76,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGllOW9jYmlhM2N6YTdmaTA1aTZ5aHgwdDd5eXVqemllOGxqZjI3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I7jZ34hGl4Tp8Fg5cn/giphy.gif"  />
-
 ###
 
 <img src="https://raw.githubusercontent.com/eghabibie/eghabibie/output/snake.svg" alt="Snake animation" />
