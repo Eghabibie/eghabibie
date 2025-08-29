@@ -78,11 +78,7 @@
 
 ### 🎧 What I'm Listening To
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Habibie">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Habibie&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qg6ucprh73xuoufgjxxrj51kh&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qg6ucprh73xuoufgjxxrj51kh&redirect=true)
 
 ###
 
