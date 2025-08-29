@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋! I'm Egi Disa Habibie and y'all  can call Me Bie</h1>
 
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eghabibie.eghabibie&"  />
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&vCenter=true&width=435&lines=Hi%2C+I'm+Egi+Disa+Habibie+(Bie);I'm+a+Web+Developer...;...and+also+a+Game+Developer!;Welcome+to+my+GitHub+profile+👋" alt="Typing SVG" />
+</p>
+
 
 ###
 
