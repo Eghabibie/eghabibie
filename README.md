@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Egi Disa Habibie and y'all  can call me Bie</h2>
+<h1 align="center">Hi 👋! I'm Egi Disa Habibie and y'all  can call Me Bie</h1>
 
 ###
 
