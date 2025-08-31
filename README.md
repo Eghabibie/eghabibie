@@ -69,13 +69,13 @@
 ###
 
 <div align="center">
-  <a href="discord.com/users/bievz" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
-  <a href="biegdev@gmail.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/egi-disa-habibie-492723381" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
